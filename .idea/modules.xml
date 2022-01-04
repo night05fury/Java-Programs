@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Function Module in Java/Function Module in Java.iml" filepath="$PROJECT_DIR$/Function Module in Java/Function Module in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance concepts/Inheritance concepts.iml" filepath="$PROJECT_DIR$/Inheritance concepts/Inheritance concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA sem 3.iml" filepath="$PROJECT_DIR$/JAVA sem 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Collections/Java Collections.iml" filepath="$PROJECT_DIR$/Java Collections/Java Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda Expression in Java/Lambda Expression in Java.iml" filepath="$PROJECT_DIR$/Lambda Expression in Java/Lambda Expression in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream in Java/Stream in Java.iml" filepath="$PROJECT_DIR$/Stream in Java/Stream in Java.iml" />
+    </modules>
+  </component>
+</project>

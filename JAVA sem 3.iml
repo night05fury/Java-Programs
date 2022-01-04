@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Abstract class concepts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Aggregation and composition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Anonymous Class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array concepts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Concurrency" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ExceptionH" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Input Stream &amp; Buffer reader" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Instances in java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Interface in JAVA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NIO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Nested class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Scanner class Input" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Static Methods &amp; Variables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String concepts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Swing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Variable arguement summation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/final keyword" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
